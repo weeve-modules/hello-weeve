@@ -1,7 +1,7 @@
 SHELL := /bin/bash # to enable source command in run_app
 
-MODULE=weevenetwork/hello-weeve
-VERSION_NAME=v1.0.0
+MODULE=weevetutorial/hello-weeve
+VERSION_NAME=latest
 
 install_dev:
 	python3 -m pip install -r requirements_dev.txt
