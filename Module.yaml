@@ -20,7 +20,11 @@ envs:
     options: []
     dependencies: []
 ports: []
+envPorts: []
+devices: []
+envDevices: []
 mounts: []
+envMounts: []
 tags:
   - 'Python'
   - 'Processing'
