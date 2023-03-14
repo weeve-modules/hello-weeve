@@ -1,14 +1,14 @@
 displayName: 'Hello Weeve'
 moduleName: 'hello-weeve'
 description: 'Hello weeve module that converts Celsius to Fahrenheit'
-versionName: 'v1.0.0'
+versionName: 'v1.0.1'
 isPublic: true
 categories:
   - 'Process'
 type: 'Processing'
 image:
   name: 'weevetutorial/hello-weeve'
-  tag: 'v1.0.0'
+  tag: 'v1.0.1'
   homepage: 'https://hub.docker.com/weevetutorial/hello-weeve'
 repository: 'https://github.com/weeve-modules/hello-weeve'
 envs:
